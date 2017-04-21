@@ -1,0 +1,48 @@
+c:\users\alienhack\documents\visual studio 2015\Projects\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+c:\users\alienhack\documents\visual studio 2015\Projects\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+c:\users\alienhack\documents\visual studio 2015\Projects\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+c:\users\alienhack\documents\visual studio 2015\Projects\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+c:\users\alienhack\documents\visual studio 2015\Projects\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+c:\users\alienhack\documents\visual studio 2015\Projects\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
+C:\Users\kasidech\Desktop\THESIS_WORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+C:\Users\kasidech\Desktop\THESIS_WORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+C:\Users\kasidech\Desktop\THESIS_WORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
+C:\Users\kasidech\Desktop\THESIS_WORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+C:\Users\kasidech\Desktop\THESIS_WORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+C:\Users\kasidech\Desktop\THESIS_WORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+C:\Users\AlienHack\Desktop\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+C:\Users\AlienHack\Desktop\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+C:\Users\AlienHack\Desktop\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
+C:\Users\AlienHack\Desktop\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+C:\Users\AlienHack\Desktop\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+C:\Users\AlienHack\Desktop\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+C:\Users\EGAT\Desktop\หน้า 136\THESS\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+C:\Users\EGAT\Desktop\หน้า 136\THESS\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+C:\Users\EGAT\Desktop\หน้า 136\THESS\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
+C:\Users\EGAT\Desktop\หน้า 136\THESS\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+C:\Users\EGAT\Desktop\หน้า 136\THESS\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+C:\Users\EGAT\Desktop\หน้า 136\THESS\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+D:\20170412\THESS\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+D:\20170412\THESS\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+D:\20170412\THESS\THESISWORK\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+D:\20170412\THESS\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+D:\20170412\THESS\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+D:\20170412\THESS\THESISWORK\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
+D:\20170412\2017.04.18\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+D:\20170412\2017.04.18\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+D:\20170412\2017.04.18\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+D:\20170412\2017.04.18\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+D:\20170412\2017.04.18\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+D:\20170412\2017.04.18\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
+D:\Thesis\2017.04.19\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+D:\Thesis\2017.04.19\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+D:\Thesis\2017.04.19\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+D:\Thesis\2017.04.19\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+D:\Thesis\2017.04.19\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+D:\Thesis\2017.04.19\1. Program\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
+D:\Thesis\2017.04.19\1. Program\NORMAL\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe.config
+D:\Thesis\2017.04.19\1. Program\NORMAL\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.exe
+D:\Thesis\2017.04.19\1. Program\NORMAL\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\bin\Debug\LextoConsole.pdb
+D:\Thesis\2017.04.19\1. Program\NORMAL\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.csprojResolveAssemblyReference.cache
+D:\Thesis\2017.04.19\1. Program\NORMAL\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.exe
+D:\Thesis\2017.04.19\1. Program\NORMAL\1. ตัดคำไม่รู้จัก\LextoConsole\LextoConsole\obj\Debug\LextoConsole.pdb
