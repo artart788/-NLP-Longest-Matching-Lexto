@@ -8,3 +8,5 @@ Usage</h1>
 บรรทัดที่ 21</br>
 <code>fileName.Add("index1.txt");</code></br>
 ให้เปลี่ยน index1.txt เป็นไฟล์อื่นๆ โดยใช้1 ข้อความต่อ 1 บรรทัด
+
+Best Regards
